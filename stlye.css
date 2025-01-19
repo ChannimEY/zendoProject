@@ -394,6 +394,16 @@ main{
           font-size: 17px;
           background-color: var(--red-color);
         }
+        .logo{
+          width: 140px;
+          position: absolute;
+          padding: 0 0 0 10px;
+          height: 20px;
+          bottom: 200px;
+          right: -50px;
+          transform: rotate(-90deg);
+          font-size: 15px;
+      }
 
        }
        .s2{
